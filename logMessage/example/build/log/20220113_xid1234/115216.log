@@ -1,0 +1,13 @@
+[ERROR][2022-01-13 11:52:16.878][7834]/home/dufx/dufx/workspace/testProgram/logMessage/example/main.cpp:17(main): my number is 10
+[WARNING][2022-01-13 11:52:16.878][7834]/home/dufx/dufx/workspace/testProgram/logMessage/example/main.cpp:19(main): warning  my number is 10
+[WARNING][2022-01-13 11:52:16.878][7834]/home/dufx/dufx/workspace/testProgram/logMessage/example/main.cpp:20(main): warning  my number is 11
+Dump stack start...
+backtrace() returned 7 addresses 
+ [0] ./LogMessage(_Z4dumpv+0xf3) [0x5612d3c792eb]
+ [1] ./LogMessage(_Z14signal_handleri+0x26) [0x5612d3c796ac]
+ [2] /lib/x86_64-linux-gnu/libc.so.6(+0x3f040) [0x7ff80eb50040]
+ [3] ./LogMessage(_ZN4TEST8setValueEi+0x12) [0x5612d3c74104]
+ [4] ./LogMessage(main+0x219) [0x5612d3c73fc3]
+ [5] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7ff80eb32bf7]
+ [6] ./LogMessage(_start+0x2a) [0x5612d3c73cca]
+Dump stack end...

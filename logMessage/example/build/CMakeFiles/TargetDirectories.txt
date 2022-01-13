@@ -1,0 +1,3 @@
+/home/dufx/dufx/workspace/testProgram/logMessage/example/build/CMakeFiles/rebuild_cache.dir
+/home/dufx/dufx/workspace/testProgram/logMessage/example/build/CMakeFiles/LogMessage.dir
+/home/dufx/dufx/workspace/testProgram/logMessage/example/build/CMakeFiles/edit_cache.dir
