@@ -1,0 +1,2 @@
+# logMessage
+local log message
